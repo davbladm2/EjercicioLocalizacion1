@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjercicioLocalizacion1</string>
+    <string name="latitud">Latitud: </string>
+    <string name="longuitud">Longuitud: </string>
+    <string name="parar_actualizaciones">Parar</string>
+    <string name="iniciar_actualizaciones">Actualizar</string>
+</resources>
